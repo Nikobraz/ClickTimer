@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../../../../../../source/repos/ClickTimer/ClickTimer.vcxproj" Id="b01aac68-91e7-440f-a825-0960274fd661">
+    <BuildType Solution="Debug|x64" Project="Release" />
+  </Project>
+</Solution>
